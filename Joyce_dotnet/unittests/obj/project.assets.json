@@ -1659,6 +1659,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "bll/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/bll.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/bll.dll": {}
+        }
       }
     }
   },
@@ -5604,12 +5614,18 @@
         "xunit.runner.visualstudio.2.2.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "bll/1.0.0": {
+      "type": "project",
+      "path": "../bll/bll.csproj",
+      "msbuildProject": "../bll/bll.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.NET.Test.Sdk >= 15.3.0-preview-20170628-02",
       "Microsoft.NETCore.App >= 2.0.0",
+      "bll >= 1.0.0",
       "xunit >= 2.2.0",
       "xunit.runner.visualstudio >= 2.2.0"
     ]
@@ -5643,7 +5659,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\bolsista\\Quintino_lp2vacation\\Joyce_dotnet\\bll\\bll.csproj": {
+              "projectPath": "C:\\Users\\bolsista\\Quintino_lp2vacation\\Joyce_dotnet\\bll\\bll.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

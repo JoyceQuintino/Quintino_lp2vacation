@@ -1,0 +1,15 @@
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\bin\Debug\netcoreapp2.0\unittests.deps.json
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\bin\Debug\netcoreapp2.0\unittests.runtimeconfig.json
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\bin\Debug\netcoreapp2.0\unittests.runtimeconfig.dev.json
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\bin\Debug\netcoreapp2.0\unittests.dll
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\bin\Debug\netcoreapp2.0\unittests.pdb
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\bin\Debug\netcoreapp2.0\bll.dll
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\bin\Debug\netcoreapp2.0\bll.pdb
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\obj\Debug\netcoreapp2.0\unittests.csproj.CoreCompileInputs.cache
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\obj\Debug\netcoreapp2.0\unittests.AssemblyInfoInputs.cache
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\obj\Debug\netcoreapp2.0\unittests.AssemblyInfo.cs
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\obj\Debug\netcoreapp2.0\unittests.dll
+C:\Users\bolsista\Quintino_lp2vacation\Joyce_dotnet\unittests\obj\Debug\netcoreapp2.0\unittests.pdb

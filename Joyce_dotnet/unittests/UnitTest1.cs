@@ -5,10 +5,14 @@ namespace unittests
 {
     public class UnitTest1
     {
-        [Fact]
-        public void Test1()
-        {
+        //private string nomeEsperado = "Joyce";
 
+        [Fact]
+        public void TestarNome()
+        {
+            Primeira p = new Primeira();
+            Assert.Equal(p.imprimeNome("Joyce"), null);
+            //Assert.IsNotNull(p.imprimeNome("Joyce"), "Valor nulo !");
         }
     }
 }
