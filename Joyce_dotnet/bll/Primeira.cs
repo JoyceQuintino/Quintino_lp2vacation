@@ -2,8 +2,8 @@
 
 public class Primeira
 {
-    public string imprimeNome(string nome)
-    {
-        return nome;
-    }
+    private string Nome = "Joyce";
+
+    public string imprimeNome()
+    {return Nome;}
 }

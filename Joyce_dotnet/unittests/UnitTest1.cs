@@ -11,8 +11,7 @@ namespace unittests
         public void TestarNome()
         {
             Primeira p = new Primeira();
-            Assert.Equal(p.imprimeNome("Joyce"), null);
-            //Assert.IsNotNull(p.imprimeNome("Joyce"), "Valor nulo !");
+            Assert.Equal(p.imprimeNome(), "Joyce");
         }
     }
 }
